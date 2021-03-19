@@ -1,12 +1,12 @@
 Django==2.2
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 opencv-python==4.1.0.25
 Pillow==5.1.0
 pytz==2018.4
 pip==8.1.1
 adium-theme-ubuntu==0.3.3
 django-cors-headers==2.5.3
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 gunicorn==19.9.0
 numpy==1.16.2
 django-heroku
